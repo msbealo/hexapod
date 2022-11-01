@@ -8,3 +8,10 @@ A fan-made [parts list](https://docs.google.com/spreadsheets/d/1jLi3IdmLERsBDhja
 Some of the parts have multiple versions with slight differences. But all of them are compatible and should work.  
 Make sure to check all of them to pick the one that works for you before committing to the print.  
 I use the latest version of each part in my own hexapod, which is the one with the higher number at the end of its name.
+
+## About the Solidworks files in this repository
+The repository stl files have been rebuilt using a combination of Rhino and Solidwork. These are fairly close approximations to the available stl. 
+Dimensions are correct as near as possible. Small differences are seen based on the filletting method, but this should not effect the function.
+
+Parts rebuilt so far:
+ - frame
