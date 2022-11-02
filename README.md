@@ -15,3 +15,4 @@ Dimensions are correct as near as possible. Small differences are seen based on 
 
 Parts rebuilt so far:
  - frame
+ - femur
